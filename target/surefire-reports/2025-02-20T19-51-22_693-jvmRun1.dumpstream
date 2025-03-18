@@ -1,0 +1,15 @@
+# Created at 2025-02-20T19:51:30.046
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2025-02-20T19:51:30.048
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# There is insufficient memory for the Java Runtime Environment to continue.'.
+
+# Created at 2025-02-20T19:51:30.049
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Native memory allocation (mmap) failed to map 79691776 bytes for G1 virtual space'.
+
+# Created at 2025-02-20T19:51:30.050
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# An error report file with more information is saved as:'.
+
+# Created at 2025-02-20T19:51:34.390
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# C:\Users\cheth\OneDrive\Documents\Web_Playwright-BDD-Framework\Web_Playwright-BDD-Framework\Web_Playwright-BDD-Framework-main\hs_err_pid41004.log'.
+

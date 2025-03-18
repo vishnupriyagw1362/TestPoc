@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Web(failed)" verbose="0">
+    <classes>
+      <class name="com.web.test.automation.runner.Playground">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="tearDownClass"/>
+          <include name="scenario" invocation-numbers="1 7 16 20"/>
+        </methods>
+      </class> <!-- com.web.test.automation.runner.Playground -->
+    </classes>
+  </test> <!-- Web(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,11 @@
+# Created at 2025-02-27T16:45:40.426
+Error {
+  message='Target page, context or browser has been closed
+  name='Error
+  stack='Error: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (C:\Users\cheth\AppData\Local\Temp\playwright-java-2178355280008294636\package\lib\server\dispatchers\dispatcher.js:226:49)
+    at transport.onmessage (C:\Users\cheth\AppData\Local\Temp\playwright-java-2178355280008294636\package\lib\cli\driver.js:52:57)
+    at Immediate._onImmediate (C:\Users\cheth\AppData\Local\Temp\playwright-java-2178355280008294636\package\lib\protocol\transport.js:77:34)
+    at process.processImmediate (node:internal/timers:476:21)
+}
+

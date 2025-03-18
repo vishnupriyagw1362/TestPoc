@@ -1,0 +1,87 @@
+# Created at 2025-03-06T12:43:35.906
+Error {
+  message='Runtime.callFunction): Browser closed.
+==================== Browser output: ====================
+<launching> C:\Users\cheth\AppData\Local\ms-playwright\firefox-1408\firefox\firefox.exe -no-remote -wait-for-browser -foreground -profile C:\Users\cheth\AppData\Local\Temp\playwright_firefoxdev_profile-0yQxpi -juggler-pipe -silent
+<launched> pid=10736
+[pid=10736][out] console.warn: services.settings: Ignoring preference override of remote settings server
+[pid=10736][out] console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[pid=10736][out] console.error: ({})
+[pid=10736][out] 
+[pid=10736][out] Juggler listening to the pipe
+[pid=10736][out] console.error: "Warning: unrecognized command line flag -foreground\n"
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][err] JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 58: Error: Can't find profile directory.
+[pid=10736][err] [Child 3840, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file C:/mozilla-build/msys/firefox/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[pid=10736][err] [Child 3840, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file C:/mozilla-build/msys/firefox/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][err] [ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: ({})
+[pid=10736][out] console.warn: LoginRecipes: "Falling back to a synchronous message for: https://portal.mvpin90days.com."
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new Error("Polling for changes failed: The URI is malformed..", "resource://services-settings/remote-settings.sys.mjs", 324))
+[pid=10736][err] JavaScript warning: resource://gre/modules/UpdateService.sys.mjs, line 3860: unreachable code after return statement
+[pid=10736][out] console.warn: LoginRecipes: "Falling back to a synchronous message for: https://portal.mvpin90days.com."
+=========================== logs ===========================
+taking page screenshot
+============================================================
+  name='Error
+  stack='Error: Runtime.callFunction): Browser closed.
+==================== Browser output: ====================
+<launching> C:\Users\cheth\AppData\Local\ms-playwright\firefox-1408\firefox\firefox.exe -no-remote -wait-for-browser -foreground -profile C:\Users\cheth\AppData\Local\Temp\playwright_firefoxdev_profile-0yQxpi -juggler-pipe -silent
+<launched> pid=10736
+[pid=10736][out] console.warn: services.settings: Ignoring preference override of remote settings server
+[pid=10736][out] console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[pid=10736][out] console.error: ({})
+[pid=10736][out] 
+[pid=10736][out] Juggler listening to the pipe
+[pid=10736][out] console.error: "Warning: unrecognized command line flag -foreground\n"
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][err] JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 58: Error: Can't find profile directory.
+[pid=10736][err] [Child 3840, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file C:/mozilla-build/msys/firefox/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[pid=10736][err] [Child 3840, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file C:/mozilla-build/msys/firefox/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][err] [ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: ({})
+[pid=10736][out] console.warn: LoginRecipes: "Falling back to a synchronous message for: https://portal.mvpin90days.com."
+[pid=10736][out] console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[pid=10736][out] console.error: (new Error("Polling for changes failed: The URI is malformed..", "resource://services-settings/remote-settings.sys.mjs", 324))
+[pid=10736][err] JavaScript warning: resource://gre/modules/UpdateService.sys.mjs, line 3860: unreachable code after return statement
+[pid=10736][out] console.warn: LoginRecipes: "Falling back to a synchronous message for: https://portal.mvpin90days.com."
+=========================== logs ===========================
+taking page screenshot
+============================================================
+    at FFConnection._checkClosed (C:\Users\cheth\AppData\Local\Temp\playwright-java-5152864147650614106\package\lib\server\firefox\ffConnection.js:92:29)
+    at FFSession.send (C:\Users\cheth\AppData\Local\Temp\playwright-java-5152864147650614106\package\lib\server\firefox\ffConnection.js:177:22)
+    at FFExecutionContext.evaluateWithArguments (C:\Users\cheth\AppData\Local\Temp\playwright-java-5152864147650614106\package\lib\server\firefox\ffExecutionContext.js:68:41)
+    at FrameExecutionContext.evaluateWithArguments (C:\Users\cheth\AppData\Local\Temp\playwright-java-5152864147650614106\package\lib\server\javascript.js:61:61)
+    at evaluateExpression (C:\Users\cheth\AppData\Local\Temp\playwright-java-5152864147650614106\package\lib\server\javascript.js:241:26)
+    at async C:\Users\cheth\AppData\Local\Temp\playwright-java-5152864147650614106\package\lib\server\frames.js:1300:24
+    at async Frame.retryWithProgressAndTimeouts (C:\Users\cheth\AppData\Local\Temp\playwright-java-5152864147650614106\package\lib\server\frames.js:915:24)
+    at async ProgressController.run (C:\Users\cheth\AppData\Local\Temp\playwright-java-5152864147650614106\package\lib\server\progress.js:92:22)
+    at async Frame.waitForFunctionValueInUtility (C:\Users\cheth\AppData\Local\Temp\playwright-java-5152864147650614106\package\lib\server\frames.js:1364:20)
+    at async Screenshotter._fullPageSize (C:\Users\cheth\AppData\Local\Temp\playwright-java-5152864147650614106\package\lib\server\screenshotter.js:129:26)
+}
+
